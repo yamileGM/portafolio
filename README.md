@@ -14,19 +14,19 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](imagenes/readme/screenshot2.pn)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](imagenes/readme/screenshot3.pn)
 
 Testimonios:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![Testimonios](imagenes/readme/screenshot4.pn)
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](imagenes/readme/screenshot5.pn)
 
 ## Tecnologías
 
@@ -42,7 +42,3 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 ## Español
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
-
-
